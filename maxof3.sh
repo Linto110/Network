@@ -1,4 +1,4 @@
-if [ $# -ne 3 ]ZZ
+if [ $# -ne 3 ]
 echo "syntax is: $0 <no1><no2><no3>"
 exit 1
 fi
